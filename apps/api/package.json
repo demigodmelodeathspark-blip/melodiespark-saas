@@ -1,0 +1,10 @@
+{
+  "name": "@melodiespark/api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo Building API",
+    "dev": "echo Running API",
+    "start": "echo Starting API"
+  }
+}

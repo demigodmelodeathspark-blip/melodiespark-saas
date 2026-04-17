@@ -1,0 +1,10 @@
+{
+  "name": "@melodiespark/web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo Building Web",
+    "dev": "echo Running Web",
+    "start": "echo Starting Web"
+  }
+}
